@@ -16,7 +16,5 @@
   },
   "homepage": "https://github.com/rrmoura1/testeNPM#readme",
   "description": "",
-  "dependencies": {
-    "my-package": "0.0.0"
-  }
+  "dependencies": {}
 }
