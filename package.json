@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rrmoura1/testeNPM/issues"
   },
-  "homepage": "https://github.com/rrmoura1/testeNPM#readme"
+  "homepage": "https://github.com/rrmoura1/testeNPM#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
